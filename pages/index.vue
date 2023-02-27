@@ -4,15 +4,15 @@
       <b-img
         src="../assets/hossein.webp"
         id="avatar-img"
-        alt="Itsuka"
+        alt="Hossein Boustani"
       />
     </b-col>
 
     <b-col md="8">
-      <h2 class="intro animate__animated animate__fadeInUp animate__fast">
+      <h1 class="intro animate__animated animate__fadeInUp animate__fast">
         Hi!,
         <br />I<span>'m Hossein</span>.
-      </h2>
+      </h1>
 
       <div class="col-md-10 info">
         My name is Hossein Boustani, I am a <b>DotNet Full-stack Developer</b>.
@@ -94,7 +94,7 @@ export default {
         hid: "description",
         name: "description",
         content:
-          "A Lightweight and Stable Discord Music Bot For Your Daily Production.",
+          "My name is Hossein Boustani, I am a DotNet Full-stack Developer.",
       },
       {
         hid: "og:title",
@@ -104,7 +104,7 @@ export default {
       {
         property: "og:description",
         content:
-          "A Lightweight and Stable Discord Music Bot For Your Daily Production.",
+          "My name is Hossein Boustani, I am a DotNet Full-stack Developer.",
       },
       {
         hid: "og:image",

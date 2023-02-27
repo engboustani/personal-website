@@ -86,13 +86,13 @@ export default {
     };
   },
   head: {
-    title: "About - Itsuka",
+    title: "About - Hossein Boustani",
     meta: [
       {
         hid: "description",
         name: "description",
         // currYear - startYear
-        content: `A Lightweight and Stable Discord Music Bot For Your Daily Production.`,
+        content: `My name is Hossein Boustani, I am a DotNet Full-stack Developer.`,
       },
     ],
   },

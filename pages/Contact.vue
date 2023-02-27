@@ -58,21 +58,21 @@ export default {
     },
   },
   head: {
-    title: "Contact - Itsuka",
+    title: "Contact - Hossein Boustani",
     meta: [
       {
         hid: "description",
         name: "description",
-        content: "Do you have any enquires? Send a message now to my Developer",
+        content: "If you have any question or just want to say hi, i'll try my best to get back to you.",
       },
       {
         hid: "og:title",
         name: "og:title",
-        content: "Contact - Itsuka",
+        content: "Contact - Hossein Boustani",
       },
       {
         property: "og:description",
-        content: "Do you have any enquires? Send a message now to my Developer",
+        content: "If you have any question or just want to say hi, i'll try my best to get back to you.",
       },
       {
         hid: "og:image",
