@@ -6,48 +6,30 @@
           <h1 class="line-after">About Me</h1>
           <h4 class="mt-4">Hey 👋</h4>
           <p>
-            My name is Hossein Boustani, I am a <b>Lightweight </b> and
-            <b>Stable </b>. Discord Music Bot For Your Daily Production.
-            <u>Discord</u>.
+            My name is Hossein Boustani, I am a <b>DotNet Full-stack Developer</b>.
           </p>
           <p>
-            I bring you a lot of features to play music from Spotify, Apple
-            Music, SoundCloud and more. I can play a recommended music for your
-            daily production by running <code>autoplay</code> command.
+            Highly skilled and innovative software development professional with 8 years of hands-on experience in web application development.
+            Focused and efficient learner with practical expertise in mobile apps and automated
+            testing, seeking a full stack developer position with Tosan.
           </p>
-          <h4 class="mt-5">Commands</h4>
-          <p>Here is my seperate command that you can use:</p>
+          <h4 class="mt-5">Skills</h4>
+          <p>Here is a list of my skills:</p>
           <div class="row animate__animated animate__fadeInUp">
             <div class="col">
               <ul style="list-style-type: circle">
-                <li>play</li>
-                <li>search</li>
-                <li>skip</li>
-                <li>stop</li>
-                <li>join</li>
-                <li>leave</li>
-                <li>playlist</li>
-                <li>autoplay</li>
-                <li>24/7</li>
-                <li>bgm</li>
-                <li>filter</li>
-                <li>loop</li>
-                <li>nowplay</li>
-                <li>pause</li>
-                <li>resume</li>
-                <li>queue</li>
-                <li>remove</li>
-                <li>shuffle</li>
-                <li>volume</li>
-                <li>lyrics</li>
+                <li>C#</li>
+                <li>DotNet</li>
+                <li>Entity Framework</li>
+                <li>ASP.NET</li>
               </ul>
             </div>
             <div class="col">
               <ul style="list-style-type: circle">
-                <li>info</li>
-                <li>help</li>
-                <li>ping</li>
-                <li>invite</li>
+                <li>SQL Server</li>
+                <li>Rest APIs</li>
+                <li>Security</li>
+                <li>SignalR</li>
               </ul>
             </div>
           </div>
@@ -55,8 +37,8 @@
       </div>
       <div class="col-md-6">
         <img
-          src="https://i.imgur.com/UmWcMjO.png"
-          alt="Itsuka Wallpaper"
+          src="../assets/hossein2.webp"
+          alt="Hossein Boustani"
           class="abt-img"
         />
       </div>

@@ -9,19 +9,15 @@
           get back to you.
         </p>
 
-        <b-alert show variant="success" v-if="showAlert">
-          <strong>All done 🎉</strong><br />
-          Thanks for reaching out {{ this.formData.name }}, I'll reply as soon
-          as i can.
-        </b-alert>
-
-          <b-button type="submit" variant="primary" href="https://discord.gg/h67nbaqdVm" target="_blank">Discord</b-button>
-        </b-form>
+        <contact-form></contact-form> 
       </b-col>
     </b-row>
   </b-container>
 </template>
 <script>
+
+import ContactForm from '../components/ContactForm.vue';
+
 export default {
   data() {
     return {
@@ -85,6 +81,7 @@ export default {
       },
     ],
   },
+  components: {ContactForm}
 };
 </script>
 <style scoped>
