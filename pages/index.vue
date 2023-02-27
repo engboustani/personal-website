@@ -2,7 +2,7 @@
   <b-row style="margin-left: 0; margin-right: 0">
     <b-col md="4">
       <b-img
-        src="https://images-ext-1.discordapp.net/external/LO-k41aNh_y2TB5K3a4Vh0g6QEE3GEB5TJb-1yXDVRM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/477762276389027840/f1a56f884fe1edc46ae81d8711b33b57.png?width=636&height=636"
+        src="../assets/hossein.PNG"
         id="avatar-img"
         alt="Itsuka"
       />
@@ -11,7 +11,7 @@
     <b-col md="8">
       <h2 class="intro animate__animated animate__fadeInUp animate__fast">
         Hi!,
-        <br />I<span>'m Itsuka</span>.
+        <br />I<span>'m Hossein</span>.
       </h2>
 
       <div class="col-md-10 info">
@@ -81,7 +81,7 @@ export default {
   },
 
   head: {
-    title: "Itsuka Dashbord",
+    title: "Hossein Boustani",
     meta: [
       {
         hid: "description",
@@ -92,7 +92,7 @@ export default {
       {
         hid: "og:title",
         name: "og:title",
-        content: "Itsuka Dashbord",
+        content: "Hossein Boustani",
       },
       {
         property: "og:description",
@@ -102,7 +102,7 @@ export default {
       {
         hid: "og:image",
         name: "og:image",
-        content: "https://i.imgur.com/UmWcMjO.png",
+        content: "../assets/hossein.PNG",
       },
     ],
   },

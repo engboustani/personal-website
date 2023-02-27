@@ -6,7 +6,7 @@
           <h1 class="line-after">About Me</h1>
           <h4 class="mt-4">Hey 👋</h4>
           <p>
-            My name is Itsuka Kotori, I am a <b>Lightweight </b> and
+            My name is Hossein Boustani, I am a <b>Lightweight </b> and
             <b>Stable </b>. Discord Music Bot For Your Daily Production.
             <u>Discord</u>.
           </p>
